@@ -92,7 +92,7 @@
         <div class="video-container">
         </div>
 <div class="video-container">
-    <h2>DAWN SMP SEASON 2 TRAILER</h2>
+    <h2>The DAWN SMP SEASON 2 TRAILER</h2>
         <iframe width="540" height="315" src="https://www.youtube.com/embed/olit8ofZuUA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             
             </div>
@@ -104,7 +104,7 @@
             </div>
 
 <div class="video-container">
-    <h2>DAWN SMP SEASON 2 TRAILER</h2>
+    <h2>Dawn SMP S1 E1</h2>
         <iframe width="540" height="315" src="https://www.youtube.com/embed/7mkb0QzYJ78" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         
             </div>
