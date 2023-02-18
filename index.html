@@ -90,12 +90,12 @@
     </div>
 
     <div class="video-section">
-        <h2>WATCH EPISODES OF SAMROCKER IS LIVE</h2>
+        <h2>| WATCH EPISODES OF SAMROCKER IS LIVE |</h2>
         <div class="video-container">
         </div>
         
         <div class="video-container">
-            <h2>| DAWN SMP SEASON 2 TRAILER IN HINDI |</h2>
+            <h2>DAWN SMP SEASON 2 TRAILER IN HINDI</h2>
             <iframe width="559" height="315" src="https://www.youtube.com/embed/olit8ofZuUA" frameborder="50" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         
