@@ -8,8 +8,10 @@
     <meta name="author" content="Your Name">
     <title>My Video Series</title>
 
-    <link rel="stylesheet" href="style.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-    <style>
+    
+<link rel="stylesheet" href="style.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+<link rel="stylesheet" href="style2.css" integrity="">
+<style>
         .header {
             background-image: url('background.png');
             background-size: cover;
@@ -22,7 +24,7 @@
         .header h1 {
             color: whitesmoke;
             font-size: 50px;
-            text-shadow: 0px 0px #333;
+            text-shadow: 1px 1px #333;
             font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
         }
 
@@ -38,25 +40,25 @@
         }
 
         .video-section .video-container {
-            display: flex;
+            display: -ms-inline-flexbox;
             justify-content: center;
             align-items: center;
-            flex-wrap: wrap;
+            flex-wrap: wrap-reverse;
         }
 
         .video-section .video-container .video {
-            width: 30%;
-            margin: 30px;
+            width: 3000%;
+            margin: 3000px;
         }
 
         .video-section .video-container .video img {
-            width: 100%;
+            width: 3000%;
         }
 
         .video-section .video-container .video h3 {
             font-size: 24px;
-            text-align: center;
-            margin-top: 20px;
+            text-align: left;
+            margin-top: 300px;
         }
 
         .cta {
@@ -88,23 +90,26 @@
     </div>
 
     <div class="video-section">
-        <h2>Watch Our Episodes</h2>
+        <h2>WATCH EPISODES OF SAMROCKER IS LIVE</h2>
         <div class="video-container">
         </div>
-<div class="video-container">
-    <h2>The DAWN SMP SEASON 2 TRAILER</h2>
-        <iframe width="540" height="315" src="https://www.youtube.com/embed/olit8ofZuUA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            
-            </div>
+        
+        <div class="video-container">
+            <h2>| DAWN SMP SEASON 2 TRAILER IN HINDI |</h2>
+            <iframe width="559" height="315" src="https://www.youtube.com/embed/olit8ofZuUA" frameborder="50" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        
 
-<div class="video-container">
-    <h2>back in Mc DAWN SMP S-1 E-3</h2>
-        <iframe width="540" height="315" src="https://www.youtube.com/embed/vTKUPbaUR-o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+         <div class="video-container">
+       <h2>back in Mc DAWN SMP S-1 E-3</h2>
+        <iframe width="559" height="315" src="https://www.youtube.com/embed/vTKUPbaUR-o" frameborder="50" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     
             </div>
 
 <div class="video-container">
-    <h2>Dawn SMP S1 E1</h2>
-        <iframe width="540" height="315" src="https://www.youtube.com/embed/7mkb0QzYJ78" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <h2>The DAWN SMP S1 E01 STREAM HIGHLIGHTS</h2>
+        <iframe width="559" height="315" src="https://www.youtube.com/embed/7mkb0QzYJ78" frameborder="50" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         
             </div>
+                
+    
